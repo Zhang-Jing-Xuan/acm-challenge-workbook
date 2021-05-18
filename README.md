@@ -1,3 +1,10 @@
+# 学习资源连接：
+- [Acwing](www.acwing.com)
+- [bewildRan](https://search.bilibili.com/all?keyword=bewildRan)
+- [GuoWei](https://www.icourse163.org/learn/PKU-1001894005?tid=1450413466#/learn/announce)
+- 《挑战程序设计竞赛（第2版）》
+- 《 算法竞赛入门经典 》
+
 # 1 前言
 
 项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)习题册攻略，已完结。可配合书籍或笔记，系统学习算法。
